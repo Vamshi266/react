@@ -1,5 +1,13 @@
-component file names always start with capital letter
+1)component file names always start with capital letter
 
-there are two types of components
-1.functional
-2.class
+2)there are two types of components
+    2.1 functional
+    2.2 class
+
+3)we need to add export statement at the end or beginning of the file
+
+4)in order to create a class component the class needs to extend the Component class of react module
+
+5)in a class component we need to have a render method to return jsx
+
+6)every react component accepts a prop and returns jsx
