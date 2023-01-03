@@ -11,3 +11,12 @@
 5)in a class component we need to have a render method to return jsx
 
 6)every react component accepts a prop and returns jsx
+
+7)JSX stands for 'javascriptxml'
+
+8)jsx is an extension to js
+
+9)jsx enables us to embed js code in to html like lang.
+
+10)props is the input that we send to components
+
